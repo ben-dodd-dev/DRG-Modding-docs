@@ -1,7 +1,6 @@
 [book]
 authors = ["许杰友 Jieyou Xu (Joe), Buckminsterfullerene"]
 language = "en"
-multilingual = false
 src = "src"
 title = "Deep Rock Galactic Modding Handbook"
 

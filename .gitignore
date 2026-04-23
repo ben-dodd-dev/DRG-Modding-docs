@@ -1,1 +1,6 @@
+# mdbook output
 book
+
+# Python automation tools
+pytools
+.venv
