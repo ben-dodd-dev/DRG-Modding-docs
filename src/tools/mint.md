@@ -4,7 +4,7 @@
 >
 > ****Credits:****\
 > [许杰友 Jieyou Xu (Joe)](https://github.com/jieyouxu) - Original [documentation](https://jieyouxu.github.io/drg-modding-docs/mint)\
-> [mitgobla (Ben)](https://github.com/jieyouxu) - Updated 2026 [guide](https://mod.io/g/drg/r/mint-install-guide)\
+> [mitgobla (Ben)](https://github.com/ben-dodd-dev) - Updated 2026 [guide](https://mod.io/g/drg/r/mint-install-guide)\
 > [trumank](https://github.com/trumank/) - created [MINT](https://github.com/trumank/mint) and other incredibly powerful modding tools 
 
 # Contents
