@@ -14,6 +14,11 @@
 
 ---
 
+# Wiki
+
+- [Blueprint Wiki](wiki/blueprint.md)
+  - [Class Default Objects](wiki/blueprint/class-default-objects.md)
+
 # Tools & Resources
 
 - [Mint](tools/mint.md)

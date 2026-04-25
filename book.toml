@@ -12,3 +12,7 @@ mathjax-support = true
 git-repository-url = "https://github.com/DRG-Modding/docs"
 edit-url-template = "https://github.com/DRG-Modding/docs/{path}"
 additional-css = ["css/custom.css"]
+
+[output.html.fold]
+enable = true
+level = 0
