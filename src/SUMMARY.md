@@ -18,6 +18,7 @@
 
 - [Blueprint Wiki](wiki/blueprint.md)
   - [Class Default Objects](wiki/blueprint/class-default-objects.md)
+  - [Send Chat Messages](wiki/blueprint/send-chat-messages.md)
 
 # Tools & Resources
 
